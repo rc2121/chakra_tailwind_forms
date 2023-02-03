@@ -1,6 +1,5 @@
 import { useState } from 'react';
 import { Button } from '@chakra-ui/react';
-import './App.css';
 import Signin from './components/signin';
 import Signup from './components/signup';
 import Newsletter from './components/newsletter';
